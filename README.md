@@ -1,7 +1,7 @@
 # Tower-crane-lifting-monitoring-and-navigation-system
 The system has specific functions such as tower crane lifting data visualization, tower crane leveling status recognition, tower crane lifting dangerous working condition recognition and warning, wireless transmission and storage of lifting data, tower crane lifting navigation, etc.
 # Display of success run
-![image](https://github.com/DrPeiXueFeng/Tower-crane-lifting-monitoring-and-navigation-system/tree/main/picture/1.png)
+![image1](https://github.com/DrPeiXueFeng/Tower-crane-lifting-monitoring-and-navigation-system/tree/main/picture/1.png)
 # Requirements
 Labview 2018
 NI-VISA
@@ -22,6 +22,6 @@ camera *1
 Tower_Crane_Jack_Monitor.vi(optional)
 Tower_Crane_Balance_Monitor.vi(optional)
 # Warning and navigation picture
-![image](https://github.com/DrPeiXueFeng/Tower-crane-lifting-monitoring-and-navigation-system/tree/main/picture/2.png)
+![image2](https://github.com/DrPeiXueFeng/Tower-crane-lifting-monitoring-and-navigation-system/tree/main/picture/2.png)
 
-![image](https://github.com/DrPeiXueFeng/Tower-crane-lifting-monitoring-and-navigation-system/tree/main/picture/3.png)
+![image3](https://github.com/DrPeiXueFeng/Tower-crane-lifting-monitoring-and-navigation-system/tree/main/picture/3.png)
