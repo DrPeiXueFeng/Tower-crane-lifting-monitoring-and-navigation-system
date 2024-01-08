@@ -1,6 +1,6 @@
 # Tower-crane-lifting-monitoring-and-navigation-system
 The system has specific functions such as tower crane lifting data visualization, tower crane leveling status recognition, tower crane lifting dangerous working condition recognition and warning, wireless transmission and storage of lifting data, tower crane lifting navigation, etc.
-# Display of successful operation
+# Display of success run
 ![image](https://github.com/DrPeiXueFeng/Tower-crane-lifting-monitoring-and-navigation-system/tree/main/picture/1.png)
 ![image](https://github.com/DrPeiXueFeng/Tower-crane-lifting-monitoring-and-navigation-system/tree/main/picture/2.png)
 ![image](https://github.com/DrPeiXueFeng/Tower-crane-lifting-monitoring-and-navigation-system/tree/main/picture/3.png)
